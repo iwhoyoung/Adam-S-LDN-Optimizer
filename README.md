@@ -48,7 +48,7 @@ git clone https://github.com/your-username/Adam-S-LDN-Optimizer.git
 cd Adam-S-LDN-Optimizer
 pip install -r requirements.txt
 pip install -e ".[training]"
-
+```
 
 ## Quick Start
 cd src && python -m open_clip_train.main \
